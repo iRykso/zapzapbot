@@ -1,0 +1,7 @@
+{
+  "name": "zapzap",
+  "description": "A barebones Node.js app using Express",
+  "repository": "https://github.com/iRykso/zapzapbot",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["node", "express", "static"]
+}
