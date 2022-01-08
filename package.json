@@ -1,9 +1,7 @@
-"dependencies": {
-    "bower": "0.6.x"
-},
-"scripts": {
-    "postinstall": "./node_modules/bower/bin/bower install"
-}
+"engines": {
+    "node": ">= 6.9.4",
+    "npm": ">= 4.4.0"
+  }
 {
   "name": "Alphabot",
   "version": "0.13.0",
